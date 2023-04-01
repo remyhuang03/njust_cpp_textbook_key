@@ -25,3 +25,14 @@ output
 ```
 
 ---
+
+## 第 3 章
+
+【选择题速查】
+
+CCDBD BCADA
+
+CCBDB DCDD
+
+
+[课本 P17 - 2.2.2]
